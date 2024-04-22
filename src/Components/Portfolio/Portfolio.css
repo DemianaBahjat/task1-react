@@ -1,0 +1,21 @@
+.text{
+    position: relative;
+}
+
+.text::after{
+    position: absolute;
+    width: 30px;
+    height: 2px;
+    top:20%;
+    left:30%;
+    background-color: gray;
+}
+
+.cardds{
+    width: 300px;
+    height: 200px;
+    background-color: gray;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 10px 10px  10px 2px rgb(186, 181, 181);
+}

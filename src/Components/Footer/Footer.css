@@ -1,0 +1,23 @@
+.footer{
+    height: 200px;
+    background-color: gray ;
+    color:white;
+}
+
+.footer-sec{
+       text-align: center;
+       margin-right: 23%;
+}
+
+
+
+.btn{
+    text-transform: uppercase;
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 3px solid rgb(226, 224, 224) !important;
+    color: aliceblue;
+    margin-top: 30px;
+    cursor: pointer;
+
+}
